@@ -1,6 +1,6 @@
 {
   "name": "react-native-expo-backgrounds",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Animated and interactive background components for React Native Expo apps",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -43,7 +43,23 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "expo",
+    "background",
+    "animated background",
+    "parallax",
+    "gyroscope",
+    "expo-sensors",
+    "motion",
+    "space",
+    "starfield",
+    "background effects",
+    "react-native-backgrounds",
+    "react-native-animation",
+    "react-native-component",
+    "mobile-ui",
+    "interactive",
+    "react-native-expo-backgrounds"
   ],
   "repository": {
     "type": "git",
