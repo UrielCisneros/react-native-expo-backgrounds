@@ -166,5 +166,8 @@
     "languages": "js",
     "type": "library",
     "version": "0.51.0"
+  },
+  "dependencies": {
+    "expo-sensors": "^14.1.4"
   }
 }
