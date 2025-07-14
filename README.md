@@ -11,6 +11,14 @@
 
 ---
 
+## Example 
+
+<p align="center">
+  <img src="./src/assets/space-background.gif" width="350" />
+</p>
+
+---
+
 ## Installation
 
 ```bash
